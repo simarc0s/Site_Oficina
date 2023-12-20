@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Compra produtos',
-    Svg: require('@site/static/img/reparacao.svg').default,
+    Svg: require('@site/static/img/compra.svg').default,
     description: (
       <>
         Neste site poderá comprar peças, carros, produtos mais específicos
