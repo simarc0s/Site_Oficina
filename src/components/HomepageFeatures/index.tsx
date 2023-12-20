@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Troca/Reparação',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/reparations.svg').default,
     description: (
       <>
         Aceitamos trocas de peças se estiverem num estado aceitável, de preferência 
