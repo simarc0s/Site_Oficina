@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Venda peças/carros',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/venda.svg').default,
     description: (
       <>
         Aqui também irá poder vender qualquer tipo de produtos/peças ou até carros
