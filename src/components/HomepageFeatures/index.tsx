@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Aqui é onde poderá fazer as suas compras, desde peças, a carros, produtos mais específicos
+        Neste site poderá comprar peças, carros, produtos mais específicos
         tais como lubrificantes para as peças, óleo ou qualquer outro tipo de artigo em loja. Para
         mais informações consulte os contactos do staff abaixo desta mesma sub-categoria.
       </>
@@ -25,8 +25,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Aqui também irá poder vender qualquer tipo de produtos/peças ou até carros
+        por inteiro. Se pretender vender um veículo terá de o mobilizar á oficina
+        para uma avaliação local.
       </>
     ),
   },
@@ -35,8 +36,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Aceitamos trocas de peças se estiverem num estado aceitável, de preferência 
+        na garantia. Obviamente também fazemos QUALQUER tipo de reparação desde dos
+        elétricos até aos de vapor.
       </>
     ),
   },
