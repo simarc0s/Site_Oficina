@@ -21,24 +21,24 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Venda peças/carros',
+    title: 'Venda/Troca peças',
     Svg: require('@site/static/img/venda.svg').default,
     description: (
       <>
-        Aqui também irá poder vender qualquer tipo de produtos/peças ou até carros
+        Aqui também irá poder vender ou trocar qualquer tipo de produtos/peças ou até carros
         por inteiro. Se pretender vender um veículo terá de o mobilizar á oficina
         para uma avaliação local.
       </>
     ),
   },
   {
-    title: 'Troca/Reparação',
+    title: 'Reparação',
     Svg: require('@site/static/img/reparations.svg').default,
     description: (
       <>
-        Aceitamos trocas de peças se estiverem num estado aceitável, de preferência 
-        na garantia. Obviamente também fazemos QUALQUER tipo de reparação desde dos
-        elétricos até aos de vapor.
+        Também fazemos QUALQUER tipo de reparação desde dos elétricos até aos de vapor. Para
+        informações adicionais terás que se dirigir á oficina mais próxima. O diagnóstico é
+        por conta da casa.
       </>
     ),
   },
