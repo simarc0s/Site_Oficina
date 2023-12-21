@@ -16,33 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "Peças/comprar-peças",
+              "path": "/docs/Peças/comprar-peças",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "Peças/trocar-peças",
+              "path": "/docs/Peças/trocar-peças",
               "sidebar": "tutorialSidebar"
             },
             {
