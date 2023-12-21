@@ -1,6 +1,6 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: long-equipa-post
+title: Abel
 authors: endi
 tags: [hello, docusaurus]
 ---

@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: first-equipa-post
+title: Gustavo
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
