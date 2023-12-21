@@ -2,6 +2,22 @@
 sidebar_position: 1
 ---
 
+# Menu
+
+comprar peças
+
+pagina de troca
+
+pagina de reparações
+
+tabela de preços
+
+
+
+
+
+
+
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
