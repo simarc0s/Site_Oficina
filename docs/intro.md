@@ -4,10 +4,15 @@ sidebar_position: 1
 
 # Menu
 
-comprar peças
+Veja o que pode fazer no nosso website!
 
-pagina de troca
+## Comprar Peças
+Aqui poderá ver a nossa seleção de peças e 
+[Comprar peças](docs\Peças\comprar-peças.md)
 
-pagina de reparações
+## Página de Reparações
+Aqui poderá trocar as suas peças por o financeiramente equivalente do nosso stock!
+
+Pode falar com um colaborador para que possa [Trocar peças](docs\Peças\trocar-peças.md)
 
 tabela de preços
