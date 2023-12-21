@@ -99,6 +99,10 @@ const config = {
                 label: 'Veículos',
                 to: '/docs/category/veículos',
               },
+              {
+                label: 'Produtos Extras',
+                to: '/docs/category/veículos',
+              },
             ],
           },
           {
