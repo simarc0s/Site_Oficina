@@ -6,11 +6,11 @@ sidebar_position: 1
 
 Veja o que pode fazer no nosso website!
 
-## Comprar Peças
+## [Comprar peças](docs\Peças\comprar-peças.md)
 Aqui poderá ver a nossa seleção de peças e 
 [Comprar peças](docs\Peças\comprar-peças.md)
 
-## Página de Reparações
+## [Trocar peças](docs\Peças\trocar-peças.md)
 Aqui poderá trocar as suas peças por o financeiramente equivalente do nosso stock!
 
 Pode falar com um colaborador para que possa [Trocar peças](docs\Peças\trocar-peças.md)
