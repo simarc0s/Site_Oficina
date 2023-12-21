@@ -1,6 +1,6 @@
 ---
 slug: long-blog-post
-title: Long Blog Post
+title: O Abel é gay
 authors: endi
 tags: [hello, docusaurus]
 ---
