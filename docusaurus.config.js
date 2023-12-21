@@ -101,7 +101,7 @@ const config = {
               },
               {
                 label: 'Produtos Extras',
-                to: '/docs/category/veículos',
+                to: '/docs/category/produtos-extras',
               },
             ],
           },
