@@ -89,16 +89,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Serviços',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Peças',
+                to: '/Serviços/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Communidade',
             items: [
               {
                 label: 'Instagram',
@@ -115,10 +115,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
-                label: 'Blog',
+                label: 'Equipa',
                 to: '/blog',
               },
               {
