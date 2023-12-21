@@ -2,11 +2,11 @@
 slug: first-blog-post
 title: Gustavo, O criador
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: João Moleira
+  title: SIC Notícias
+  url: https://pt.linkedin.com/in/jo%C3%A3o-moleira-90434a158?trk=public_profile_browsemap-profile
+  image_url: https://media.licdn.com/dms/image/C4D03AQHHYYm2DSajkA/profile-displayphoto-shrink_200_200/0/1615454628102?e=2147483647&v=beta&t=kurJI7J7QhS2Q6V9Cd2k345XLTLIOJHK8ZfOULOZTIM
+tags: [História, Equipa]
 ---
 
 Gustavo Simes: Uma História de Empreendedorismo na Mecânica Automotiva
