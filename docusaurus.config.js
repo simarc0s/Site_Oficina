@@ -101,8 +101,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/oficina_automovel_oficial/',
               },
               {
                 label: 'Discord',
@@ -110,7 +110,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/oficina_automov',
               },
             ],
           },
@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/simarc0s/Site_Oficina',
               },
             ],
           },
