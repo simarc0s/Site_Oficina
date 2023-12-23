@@ -18,3 +18,4 @@ trocas que envolva papelada legal se tiver os documentos em dia.
 Aqui irá encontrar todo o tipo de material do dia-a-dia necessário para o bom uso
 do seu veículo tais como óleo para o carro, materiais de reparação, entre outros...
 Não se preocupe que tudo o que vê no nosso site também está em stock na nossa loja.
+[Produtos Extras](docs\category/produtos-extras.md)
