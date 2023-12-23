@@ -16,13 +16,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Peças",
-              "path": "/docs/category/peças",
+              "id": "Pecas",
+              "path": "/docs/category/pecas",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Produtos-Extras",
-              "path": "/docs/category/produtos-extras",
+              "id": "Produtos_Extras",
+              "path": "/docs/category/produtos_extras",
               "sidebar": "tutorialSidebar"
             },
             {
