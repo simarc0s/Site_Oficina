@@ -6,12 +6,13 @@ sidebar_position: 1
 
 Veja o que pode fazer no nosso website!
 
-## [Peças](docs\category\pecas.md)
+## [Comprar peças](docs\Peças\comprar-peças.md)
+Aqui poderá ver a nossa seleção de peças e 
+[Comprar peças](docs\Peças\comprar-peças.md)
 
-Neste setor irá poder fazer várias coisas relacionadas às peças, tais como: Comprar, Vender, Trocar. Até podemos fazer uma avaliação das mesmas gratuitamente. Isso tudo pode ser feito na nossa loja física. Aviso: Só efetuamos vendas e outras trocas que envolvam papelada legal se tiver os documentos em dia.
-[Peças](docs\category\pecas.md)
+## [Trocar peças](docs\Peças\trocar-peças.md)
+Aqui poderá trocar as suas peças por o financeiramente equivalente do nosso stock!
 
-## [Produtos_Extras](docs\category\produtos_extras.md)
+Pode falar com um colaborador para que possa [Trocar peças](docs\Peças\trocar-peças.md)
 
-Aqui irá encontrar todo o tipo de material do dia-a-dia necessário para o bom uso do seu veículo, tais como óleo para o carro, materiais de reparação, entre outros. Não se preocupe, tudo o que vê no nosso site também está em stock na nossa loja.
-[Produtos_Extras](docs\category\produtos_extras.md)
+tabela de preços
