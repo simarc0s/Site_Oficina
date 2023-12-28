@@ -9,3 +9,7 @@ sidebar_position: 1
 Compra já connosco e recebe um cupão de 30% na próxima vinda à oficina
 
 ![Alt text](image.png)
+
+Os melhores óleos de motor disponiveis para encomenda HOJE!
+
+Contacta-nos para fazer já o seu pedido!
