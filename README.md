@@ -1,36 +1,40 @@
-# Docusaurus on Github Pages
+# Site Oficina
 
-This is a demo repo to allow for a fast setup of Docusaurus on Github pages
+Este é o repositório do site da Oficina, um projeto web desenvolvido por Gustavo Simes, Abel Dias e Simão Marcos.
 
-# Instructions
+## Descrição
 
-To begin with this repository you have two options:
-- (a) Fork this repository. When you do it, make sure you fork all branches, not only main. Github Actions need the "gh-pages" branch to deploy the site.
-- (b) Clone it to your local filesystem, create a new repository on your github account and push it there. Upon pushing the github actions should trigger and create the gh-pages branch. If it doesn't, make a small change to this file and push it again.
+O Site Oficina é uma plataforma web para promocionar a Oficina Automóvel SAG . Ele foi desenvolvido utilizando o Docusaurus, vários ensinamentos e linguagens de programação .
 
-There are other changes you need to do: 
+## Instalação
 
-- Github Actions need to be enabled (Settings -> Actions -> General)
-    - Actions permissions:
-        - Allow all actions and reusable workflows
-    - Workflow permissions:
-        - Read and write permissions
-- Github Pages must also be enabled (Settings -> Pages)
-    - Source
-        - Deploy from a branch
-    - Branch
-        - gh-pages (on the dropdown)
+Para executar o projeto localmente, siga as instruções abaixo:
 
-# Generate a PDF from the Docs section
+1. Clone este repositório:
 
-You can generate a PDF from the docs section of your Docusaurus website. Just run the following command after replacing the URL with your own:
+    ```bash
+    git clone https://github.com/simarc0s/Site_Oficina.git
+    ```
 
-```
-npx docusaurus-prince-pdf --include-index -u https://masaleiro.github.io/docusaurus-ghpages/docs/intro
-```
+2. Navegue até o diretório do projeto:
 
-Another alternative is using [Docs-to-pdf](https://github.com/jean-humann/docs-to-pdf) with the following command as example:
+    ```bash
+    cd Site_Oficina
+    ```
 
-```
-npx docs-to-pdf --initialDocURLs="https://masaleiro.github.io/docusaurus-ghpages/docs/intro" --contentSelector="article" --paginationSelector="a.pagination-nav__link.pagination-nav__link--next" --excludeSelectors=".margin-vert--xl a,[class^='tocCollapsible'],.breadcrumbs,.theme-edit-this-page" --coverImage="https://docusaurus.io/img/docusaurus.png" --coverTitle="Docusaurus v2" --pdfMargin="40,60,70,80"
-```
+3. Abra o arquivo `index.html` no seu navegador preferido.
+
+## Contribuição
+
+Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etapas:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para a sua feature: `git checkout -b minha-feature`.
+3. Faça commit das suas alterações: `git commit -m 'Adiciona minha feature'`.
+4. Faça push para a branch: `git push origin minha-feature`.
+5. Abra um Pull Request.
+
+## Contato
+
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através do email [oficinauto@ualg.pt].
+
