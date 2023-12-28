@@ -2,7 +2,7 @@
 slug: long-blog-post
 title: O Abel!
 authors: endi
-tags: [hello, docusaurus]
+tags: [Equipa, Génio]
 ---
 
 Abel Dias, um profissional multifacetado, é uma peça fundamental na estrutura da Oficina Mecânica Simes. Com habilidades tanto na mecânica automotiva quanto na contabilidade, Abel desafia as expectativas ao combinar paixões aparentemente díspares.

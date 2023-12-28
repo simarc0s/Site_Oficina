@@ -9,7 +9,7 @@ authors:
 tags: [História, Equipa]
 ---
 
-Gustavo Simes: Uma História de Empreendedorismo na Mecânica Automotiva
+# Gustavo Simes: Uma História de Empreendedorismo na Mecânica Automotiva
 
 Gustavo Simes é um apaixonado por automóveis desde tenra idade. Nascido em uma pequena cidade, sua paixão pela mecânica o guiou na busca por seus sonhos. Após anos de experiência no campo, Gustavo decidiu dar vida à sua visão empreendedora.
 
