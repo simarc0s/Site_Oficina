@@ -2,6 +2,7 @@
   "label": "Veículos",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Na nossa oficina, não se trata apenas de vender carros; é sobre proporcionar uma jornada automotiva excepcional, centrada em suas necessidades e desejos individuais. Contamos com uma seleção cuidadosamente curada de veículos, cada um passando por rigorosas inspeções e manutenções para garantir que atendam aos mais elevados padrões de qualidade."
   }
 }
