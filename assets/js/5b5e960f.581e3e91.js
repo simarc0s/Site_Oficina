@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[649],{4719:a=>{a.exports=JSON.parse('{"label":"G\xe9nio","permalink":"/Site_Oficina/blog/tags/genio","allTagsPath":"/Site_Oficina/blog/tags","count":1}')}}]);
