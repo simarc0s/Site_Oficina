@@ -5,6 +5,8 @@ authors: endi
 tags: [Equipa, Génio]
 ---
 
+![Alt text](image-1.png)
+
 Abel Dias, um profissional multifacetado, é uma peça fundamental na estrutura da Oficina Mecânica Simes. Com habilidades tanto na mecânica automotiva quanto na contabilidade, Abel desafia as expectativas ao combinar paixões aparentemente díspares.
 
 Antes de se juntar à equipe, Abel ganhou destaque como mecânico especializado, conquistando uma reputação sólida em sua comunidade pela sua perícia técnica. No entanto, ao longo dos anos, ele desenvolveu um interesse particular pela gestão financeira.
@@ -16,3 +18,4 @@ Desde então, Abel desempenha um papel crucial na gestão financeira da Oficina 
 Na hierarquia da oficina, Abel atua como braço direito de Gustavo, desempenhando um papel de liderança enquanto mantém uma conexão íntima com o chão de fábrica. Sua abordagem equilibrada e sua capacidade de entender tanto as nuances mecânicas quanto as financeiras contribuem significativamente para o sucesso contínuo da oficina.
 
 A história de Abel Dias na Oficina Mecânica Simes é um testemunho de como a diversidade de habilidades e perspectivas pode ser um catalisador para o crescimento empresarial. Seu comprometimento em unir o melhor dos dois mundos, mecânica e contabilidade, destaca a importância de abraçar a inovação e explorar novas fronteiras no empreendedorismo automotivo.
+
