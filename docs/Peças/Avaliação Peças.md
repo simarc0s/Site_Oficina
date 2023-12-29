@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Avaliação peças
 
-Nossa equipe especializada em avaliação está pronta para examinar minuciosamente as peças do seu veículo, utilizando expertise técnica para identificar qualquer desgaste, danos ou necessidade de substituição.
+Nossa equipa especializada em avaliação está pronta para examinar minuciosamente as peças do seu veículo, utilizando expertise técnica para identificar qualquer desgaste, danos ou necessidade de substituição.
 
 ![Alt text](avaliar.png)
 
