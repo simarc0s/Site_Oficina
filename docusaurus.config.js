@@ -79,8 +79,8 @@ const config = {
           },
           {to: '/blog', label: 'Equipa', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://github.com/GustavoSimes/oficina_automovel',
+            label: 'Repositório App',
             position: 'right',
           },
         ],
