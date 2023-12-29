@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Oficina Automóvel',
-  tagline: 'Nada se parte, Tudo se transforma',
+  tagline: 'Nada se perde, Tudo se transforma',
   favicon: 'img/logo.png',
 
   // Set the production url of your site here
