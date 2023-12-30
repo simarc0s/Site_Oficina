@@ -34,7 +34,7 @@ Se você deseja contribuir para o desenvolvimento deste projeto, siga estas etap
 4. Faça push para a branch: `git push origin minha-feature`.
 5. Abra um Pull Request.
 
-## Contato
+## Contacto
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato através do email [oficinauto@ualg.pt].
 
